@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi I'm Benson! I am a back-end Developer.
 
-<!--
-**chi0307/chi0307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 Langues and Frameworks
+- Vue.js, React Native, Vuex, Next.js, GraphQL
+- JavaScript, TypeScript
+- Express.js, Adonis.js, socket.io
+- Mocha, Chai, Sinon
+- Redis, PostgreSQL, MySQL, CouchDB, Oracle
+- Nginx, Apache
+- Ansible, Docker, Jenkins
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Project
+- [Line Manage Tools Client(in development)](https://github.com/chi0307/line-manage-tools-client)
+- [Line Manage Tools Server(in development)](https://github.com/chi0307/line-manage-tools-server)
