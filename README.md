@@ -1,6 +1,6 @@
 Hi I'm Benson! I am a back-end Developer.
 
-## 📚 Langues and Frameworks
+## :books: Langues and Frameworks
 - Vue.js, Vuex, Next.js
 - React Native
 - JavaScript, TypeScript, Node.js
@@ -10,6 +10,6 @@ Hi I'm Benson! I am a back-end Developer.
 - Nginx, Apache
 - Ansible, Docker, Jenkins
 
-## 💡 Project
+## :bulb: Project
 - [Line Manage Tools Client(in development)](https://github.com/chi0307/line-manage-tools-client)
 - [Line Manage Tools Server(in development)](https://github.com/chi0307/line-manage-tools-server)
