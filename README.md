@@ -1,9 +1,10 @@
 Hi I'm Benson! I am a back-end Developer.
 
 ## 📚 Langues and Frameworks
-- Vue.js, React Native, Vuex, Next.js, GraphQL
-- JavaScript, TypeScript
-- Express.js, Adonis.js, socket.io
+- Vue.js, Vuex, Next.js
+- React Native
+- JavaScript, TypeScript, Node.js
+- Express.js, Adonis.js, socket.io, Apollo GraphQL
 - Mocha, Chai, Sinon
 - Redis, PostgreSQL, MySQL, CouchDB, Oracle
 - Nginx, Apache
