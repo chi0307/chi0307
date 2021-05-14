@@ -1,4 +1,4 @@
-Hi I'm Benson! I am a back-end Developer.
+Hi I'm Benson! I am a front-end Developer.
 
 ## :books: Langues and Frameworks
 - Vue.js, Vuex, Next.js
